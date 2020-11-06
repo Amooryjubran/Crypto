@@ -1,3 +1,5 @@
+# A Crypto Currency Finance Price Tracker App that was build by React JS. The data is pulled from CoinGecko API using React Hooks (useState + UseEffect) + Axios.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
